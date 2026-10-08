@@ -1,0 +1,9 @@
+﻿{
+  "name": "Transpetro 2026 - Plano 100% Aprovação",
+  "short_name": "Transpetro 2026",
+  "start_url": "/Estudo_Transpetro_2026/app/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#d4ff00",
+  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png","sizes": "512x512","type": "image/png"}]
+}
